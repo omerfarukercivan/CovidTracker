@@ -1,4 +1,4 @@
-# MovieApp
+# Covid Tracker
 
 An application that lists and tabulates daily covid cases for states in the US using the [Covid Tracking API](https://covidtracking.com/data/api).
 <p>
